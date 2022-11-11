@@ -41,8 +41,8 @@
   }
 
   FILE DRIVER = CB29F4D1-7F37-4692-A416-93E82E219711 {
-    SECTION DXE_DEPEX = Platform/EFI_Binaries/Drivers/sdm660/NpaDxe/NpaDxe.depex
-    SECTION PE32 = Platform/EFI_Binaries/Drivers/sdm660/NpaDxe/NpaDxe.efi
+   
+    SECTION PE32 = Platform/EFI_Binaries/Drivers/sdm636/NpaDxe/NpaDxe.efi
     SECTION UI = "NpaDxe"
   }
 
