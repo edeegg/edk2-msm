@@ -8,7 +8,7 @@
   BUILD_TARGETS                  = DEBUG|RELEASE
   SKUID_IDENTIFIER               = DEFAULT
   FLASH_DEFINITION               = Platform/Qualcomm/sdm636/sdm636.fdf
-  DEVICE_DXE_FV_COMPONENTS       = Platform/Xiaomi/sdm636/x00qd.fdf.inc
+  DEVICE_DXE_FV_COMPONENTS       = Platform/Asus/sdm636/x00qd.fdf.inc
 
 !include Platform/Qualcomm/sdm660/sdm660.dsc
 
