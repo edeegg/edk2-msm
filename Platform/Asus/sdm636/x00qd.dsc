@@ -10,7 +10,7 @@
   FLASH_DEFINITION               = Platform/Qualcomm/sdm636/sdm636.fdf
   DEVICE_DXE_FV_COMPONENTS       = Platform/Asus/sdm636/x00qd.fdf.inc
 
-!include Platform/Qualcomm/sdm660/sdm660.dsc
+!include Platform/Qualcomm/sdm636/sdm636.dsc
 
 [BuildOptions.common]
   GCC:*_*_AARCH64_CC_FLAGS = -DXIAOMI_PIL_FIXED=1 -DENABLE_SIMPLE_INIT -DENABLE_LINUX_SIMPLE_MASS_STORAGE

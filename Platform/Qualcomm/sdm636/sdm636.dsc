@@ -61,11 +61,11 @@
   # Ported from SurfaceDuoPkg
   AslUpdateLib|Silicon/Qualcomm/QcomPkg/Library/DxeAslUpdateLib/DxeAslUpdateLib.inf
 
-  PlatformMemoryMapLib|Silicon/Qualcomm/sdm660/Library/PlatformMemoryMapLib/PlatformMemoryMapLib.inf
-  PlatformPeiLib|Silicon/Qualcomm/sdm660/Library/PlatformPeiLib/PlatformPeiLib.inf
-  PlatformPrePiLib|Silicon/Qualcomm/sdm660/Library/PlatformPrePiLib/PlatformPrePiLib.inf
-  MsPlatformDevicesLib|Silicon/Qualcomm/sdm660/Library/MsPlatformDevicesLib/MsPlatformDevicesLib.inf
-  SOCSmbiosInfoLib|Silicon/Qualcomm/sdm660/Library/SOCSmbiosInfoLib/SOCSmbiosInfoLib.inf
+  PlatformMemoryMapLib|Silicon/Qualcomm/sdm636/Library/PlatformMemoryMapLib/PlatformMemoryMapLib.inf
+  PlatformPeiLib|Silicon/Qualcomm/sdm636/Library/PlatformPeiLib/PlatformPeiLib.inf
+  PlatformPrePiLib|Silicon/Qualcomm/sdm636/Library/PlatformPrePiLib/PlatformPrePiLib.inf
+  MsPlatformDevicesLib|Silicon/Qualcomm/sdm636/Library/MsPlatformDevicesLib/MsPlatformDevicesLib.inf
+  SOCSmbiosInfoLib|Silicon/Qualcomm/sdm636/Library/SOCSmbiosInfoLib/SOCSmbiosInfoLib.inf
 
 [Components.common]
   
