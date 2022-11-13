@@ -189,6 +189,7 @@ then
 	then
 		git submodule set-url Common/edk2                                           https://hub.nuaa.cf/tianocore/edk2.git
 		git submodule set-url Common/edk2-platforms                                 https://hub.nuaa.cf/tianocore/edk2-platforms.git
+		#git submodule set-url Platform/EFI_Binaries                                 https://github.com/edeegg/edk2-sdm845-binary.git
 		git submodule set-url Platform/EFI_Binaries                                 https://hub.nuaa.cf/edk2-porting/edk2-sdm845-binary.git
 		git submodule set-url Platform/RenegadePkg/Library/SimpleInit               https://hub.nuaa.cf/BigfootACA/simple-init.git
 		git submodule init;git submodule update --depth 1
